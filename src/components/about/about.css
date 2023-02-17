@@ -40,7 +40,7 @@
 /* For large devices */
 @media screen and (max-width: 992px) {
     .about__container {
-         grid-template-columns: repeat(2, 1fr);
+         grid-template-columns: repeat(1, 1fr);
         row-gap: 2.5rem;
     }
     .about__img {
