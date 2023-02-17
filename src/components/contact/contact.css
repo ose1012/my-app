@@ -1,0 +1,15 @@
+.contact__container {
+    grid-template-columns: repeat(1, max-content);
+    justify-content: center;
+    column-gap: 6rem;
+    padding-bottom: 3rem;
+}
+.contact__info {
+    text-align: center;
+    display: grid;
+    column-gap: 2rem;
+    grid-template-columns: 300px;
+}
+.contact__form {
+    width: 360px;
+}
